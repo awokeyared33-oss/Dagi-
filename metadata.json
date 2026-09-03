@@ -1,0 +1,6 @@
+{
+  "name": "Dagi Fitness",
+  "description": "A premium fitness tracking and training web application for Dagi Fitness and Dagi Gym with personalized workouts, nutrition, progress analytics, and deterministic food logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
